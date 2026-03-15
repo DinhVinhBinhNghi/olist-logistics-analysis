@@ -23,8 +23,30 @@ Expected folder structure:
 project
 ├── dataset
 │   ├── olist_customers_dataset.csv
+
 │   ├── olist_orders_dataset.csv
+
 │   ├── olist_order_items_dataset.csv
+
 │   ├── olist_products_dataset.csv
+
 │   └── ...
+
+Option 2 — Using Kaggle API
+
+Install Kaggle:
+
+pip install kaggle
+
+Download dataset:
+
+kaggle datasets download -d olistbr/brazilian-ecommerce
+
+Unzip into the dataset folder.
+
+Notes
+
+The dataset is publicly available on Kaggle.
+
+This repository only contains the code and analysis, not the raw dataset files.
 
