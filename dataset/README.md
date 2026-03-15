@@ -18,19 +18,6 @@ You can download it manually or using the Kaggle API.
 2. Download the ZIP file.
 3. Extract it into the `dataset/` folder.
 
-Expected folder structure:
-
-project
-    ├── dataset
-│   ├── olist_customers_dataset.csv
-
-│   ├── olist_orders_dataset.csv
-
-│   ├── olist_order_items_dataset.csv
-
-│   ├── olist_products_dataset.csv
-
-│   └── ...
 
 ### Option 2 — Using Kaggle API
 
