@@ -21,7 +21,7 @@ You can download it manually or using the Kaggle API.
 Expected folder structure:
 
 project
-├── dataset
+    ├── dataset
 │   ├── olist_customers_dataset.csv
 
 │   ├── olist_orders_dataset.csv
@@ -32,7 +32,7 @@ project
 
 │   └── ...
 
-Option 2 — Using Kaggle API
+### Option 2 — Using Kaggle API
 
 Install Kaggle:
 
