@@ -1,27 +1,27 @@
-Key Insights
+### Key Insights
 
-1. Delivery performance fluctuates over time
+## 1. Delivery performance fluctuates over time
 
 Monthly analysis shows that the late delivery rate varies significantly across months.
 This suggests that logistics capacity may not always scale proportionally with order demand.
 
 This pattern indicates potential operational bottlenecks during peak periods.
 
-2. Certain product categories experience much longer delivery times
+## 2. Certain product categories experience much longer delivery times
 
 Categories such as furniture and large household items have the longest average delivery time.
 
 These products likely require:
 
-complex packaging
+* complex packaging
 
-longer transportation routes
+* longer transportation routes
 
-specialized logistics handling
+* specialized logistics handling
 
 Improving logistics partnerships for these categories could significantly reduce delivery delays.
 
-3. Freight costs vary significantly by region
+## 3. Freight costs vary significantly by region
 
 Average freight costs differ across Brazilian states, indicating regional logistics challenges.
 
@@ -29,11 +29,11 @@ States that are geographically distant from major distribution centers tend to h
 
 This suggests opportunities for:
 
-regional warehouses
+* regional warehouses
 
-optimized shipping routes
+* optimized shipping routes
 
-4. Revenue distribution is highly concentrated among top sellers
+## 4. Revenue distribution is highly concentrated among top sellers
 
 A small number of sellers generate a disproportionately large share of total revenue.
 
@@ -41,7 +41,7 @@ This indicates a typical marketplace power-law distribution, where a few high-pe
 
 Supporting mid-tier sellers could help diversify revenue streams.
 
-5. Average delivery time reveals overall logistics efficiency
+## 5. Average delivery time reveals overall logistics efficiency
 
 The overall average delivery time provides a benchmark for evaluating operational performance.
 
