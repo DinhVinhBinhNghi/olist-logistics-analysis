@@ -40,10 +40,6 @@ GitHub – project documentation
 - Late Delivery Rate
 - Freight Cost by State
 
-## Dashboard
-
-![Dashboard Preview](images/dashboard_preview.png)
-
 ## Key Insights
 
 1. Late delivery rate fluctuated significantly across months, reaching over 20% in early 2018.
